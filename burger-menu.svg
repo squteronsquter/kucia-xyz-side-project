@@ -1,0 +1,12 @@
+
+<svg version="1.1" id="burger-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g>
+	<path class="st0" d="M10,32.5h80c2.8,0,5-2.2,5-5s-2.2-5-5-5H10c-2.8,0-5,2.2-5,5S7.2,32.5,10,32.5z"/>
+	<path class="st0" d="M90,67.5H10c-2.8,0-5,2.2-5,5s2.2,5,5,5h80c2.8,0,5-2.2,5-5S92.8,67.5,90,67.5z"/>
+	<path class="st0" d="M90,45H10c-2.8,0-5,2.2-5,5s2.2,5,5,5h80c2.8,0,5-2.2,5-5S92.8,45,90,45z"/>
+</g>
+</svg>
